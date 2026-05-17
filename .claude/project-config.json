@@ -1,0 +1,7 @@
+{
+  "portfolio": {
+    "registry": "../worksite/apexyard.projects.yaml",
+    "projects_dir": "../worksite/projects",
+    "ideas_backlog": "../worksite/projects/ideas-backlog.md"
+  }
+}

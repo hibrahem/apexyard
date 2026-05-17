@@ -29,10 +29,10 @@
 # Company Information
 # -----------------------------------------------------------------------------
 company:
-  name: "Your Company Name"
-  mission: "What you're building and why"
-  vision: "Where you're headed long-term"
-  website: "https://yourcompany.com"
+  name: "AlRasikhoon"
+  mission: "An Islamic platform for teaching and memorizing the Quran"
+  vision: "Help learners build a lasting, accurate relationship with the Quran through guided teaching and memorization"
+  website: ""
 
   # Core values that guide decision-making
   values:
@@ -42,8 +42,8 @@ company:
 
   # What kind of software you build
   products:
-    - name: "Main Product"
-      description: "Brief description of what it does"
+    - name: "AlRasikhoon"
+      description: "Islamic platform for teaching and memorizing the Quran"
       type: "web-app"  # web-app, mobile-app, api, cli, library, saas
 
 # -----------------------------------------------------------------------------
@@ -61,16 +61,8 @@ company:
 #   Data:        head-of-data, data-analyst, data-engineer
 #
 team:
-  - name: "Team Lead"
+  - name: "Hassan Ibrahim"
     role: "tech-lead"
-    department: "engineering"
-
-  - name: "Developer 1"
-    role: "backend-engineer"
-    department: "engineering"
-
-  - name: "Developer 2"
-    role: "frontend-engineer"
     department: "engineering"
 
   # Uncomment and add more team members as needed:
