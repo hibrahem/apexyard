@@ -13,3 +13,10 @@
 # must not be double-tracked from the ops repo.
 workspace/*/
 !workspace/README.md
+
+# Split-portfolio mode: registry + per-project docs live in the PRIVATE
+# sibling repo (../worksite), resolved via the portfolio: block in
+# .claude/project-config.json. Never track them in this public fork.
+# See docs/multi-project.md § "Split-portfolio mode".
+apexyard.projects.yaml
+projects
